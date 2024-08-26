@@ -1,0 +1,42 @@
+.nav{
+    display: flex;
+    background-color:#FFECE5; 
+    padding:0px, 106px, 0px, 106px;
+     height:106px;
+      justify-content: space-between;
+      align-items: center;
+}
+
+
+.logo{
+    width:188.08px;
+     height:31.61px; 
+     margin-left: 16px
+}
+
+ul{
+    display:flex;
+     gap:32px ;
+     color:#000000;
+      font:500;
+       size:16px;
+        padding: 16px, 40px, 16px, 40px;
+}
+ul li{
+    list-style: none;
+}
+ul li a{
+    display: block ;
+    text-decoration: none;
+
+}
+.button{
+    background-color: #F56630; 
+
+      border:4px;
+       border-radius: 45.83px;
+        color:white;
+         padding:14.67px, 22px, 14.67px, 22px; 
+         size:16px; 
+         font-weight: 500;
+}
